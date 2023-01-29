@@ -48,3 +48,9 @@ The data is about whether a client has payment difficulties.
 
 Datasets link below:
 https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+
+** FILES ATTACHED**:
+1. Executive Report in PPT
+2. Python jupyter notebook
+3.`Tableau` Data Viz file for better understanding of Defaulters vs Non-Defaulters Assessment.
+
