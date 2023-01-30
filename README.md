@@ -52,4 +52,4 @@ https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
 **FILES ATTACHED**:
 1. Executive Report in PPT.
 2. Python jupyter notebook.
-3. `Tableau` Data Viz file for better understanding of Defaulters vs Non-Defaulters Assessment; link- https://public.tableau.com/app/profile/pooja.rathod/viz/CreditEDADefaultersDataVizbyPoojaRathod/Defaulterdistributionsofcategoricalvariables
+3. `Tableau` Data Viz file for better understanding of Defaulters vs Non-Defaulters Assessment; link- https://public.tableau.com/app/profile/pooja.rathod/viz/CreditEDADefaultersAnalysis_PoojaRathod/Defaultersdashboard
